@@ -1,0 +1,2491 @@
+[{
+    "building": "St. Ezekiel",
+    "roomname": "SEL01",
+    "day": "Monday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL01",
+    "day": "Tuesday",
+    "hours": 15
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL01",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL01",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL01",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL01",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL02",
+    "day": "Monday",
+    "hours": 8
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL02",
+    "day": "Tuesday",
+    "hours": 5
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL02",
+    "day": "Wednesday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL02",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL02",
+    "day": "Friday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL02",
+    "day": "Saturday",
+    "hours": 6
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL03",
+    "day": "Monday",
+    "hours": 8
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL03",
+    "day": "Tuesday",
+    "hours": 9
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL03",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL03",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL03",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL03",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL04",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL04",
+    "day": "Tuesday",
+    "hours": 9
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL04",
+    "day": "Wednesday",
+    "hours": 9
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL04",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL04",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL04",
+    "day": "Saturday",
+    "hours": 9
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL05",
+    "day": "Monday",
+    "hours": 4
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL05",
+    "day": "Tuesday",
+    "hours": 5
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL05",
+    "day": "Wednesday",
+    "hours": 6
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL05",
+    "day": "Thursday",
+    "hours": 7
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL05",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL05",
+    "day": "Saturday",
+    "hours": 3
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL06",
+    "day": "Monday",
+    "hours": 5
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL06",
+    "day": "Tuesday",
+    "hours": 6
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL06",
+    "day": "Wednesday",
+    "hours": 7
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL06",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL06",
+    "day": "Friday",
+    "hours": 9
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL06",
+    "day": "Saturday",
+    "hours": 4
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL07",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL07",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL07",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL07",
+    "day": "Thursday",
+    "hours": 9
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL07",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL07",
+    "day": "Saturday",
+    "hours": 5
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL08",
+    "day": "Monday",
+    "hours": 7
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL08",
+    "day": "Tuesday",
+    "hours": 8
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL08",
+    "day": "Wednesday",
+    "hours": 9
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL08",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL08",
+    "day": "Friday",
+    "hours": 11
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL08",
+    "day": "Saturday",
+    "hours": 6
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL09",
+    "day": "Monday",
+    "hours": 9
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL09",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL09",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL09",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL09",
+    "day": "Friday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL09",
+    "day": "Saturday",
+    "hours": 7
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL10",
+    "day": "Monday",
+    "hours": 10
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL10",
+    "day": "Tuesday",
+    "hours": 11
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL10",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL10",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL10",
+    "day": "Friday",
+    "hours": 13
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL10",
+    "day": "Saturday",
+    "hours": 8
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL11",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL11",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL11",
+    "day": "Wednesday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL11",
+    "day": "Thursday",
+    "hours": 13
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL11",
+    "day": "Friday",
+    "hours": 14
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL11",
+    "day": "Saturday",
+    "hours": 9
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL12",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL12",
+    "day": "Tuesday",
+    "hours": 13
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL12",
+    "day": "Wednesday",
+    "hours": 13
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL12",
+    "day": "Thursday",
+    "hours": 14
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL12",
+    "day": "Friday",
+    "hours": 15
+}, {
+    "building": "St. Ezekiel",
+    "roomname": "SEL12",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC201",
+    "day": "Monday",
+    "hours": 5
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC201",
+    "day": "Tuesday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC201",
+    "day": "Wednesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC201",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC201",
+    "day": "Friday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC201",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC202",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC202",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC202",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC202",
+    "day": "Thursday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC202",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC202",
+    "day": "Saturday",
+    "hours": 11
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC203",
+    "day": "Monday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC203",
+    "day": "Tuesday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC203",
+    "day": "Wednesday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC203",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC203",
+    "day": "Friday",
+    "hours": 11
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC203",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC204",
+    "day": "Monday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC204",
+    "day": "Tuesday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC204",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC204",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC204",
+    "day": "Friday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC204",
+    "day": "Saturday",
+    "hours": 13
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC205",
+    "day": "Monday",
+    "hours": 4
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC205",
+    "day": "Tuesday",
+    "hours": 5
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC205",
+    "day": "Wednesday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC205",
+    "day": "Thursday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC205",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC205",
+    "day": "Saturday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC206",
+    "day": "Monday",
+    "hours": 5
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC206",
+    "day": "Tuesday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC206",
+    "day": "Wednesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC206",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC206",
+    "day": "Friday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC206",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC207",
+    "day": "Monday",
+    "hours": 3
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC207",
+    "day": "Tuesday",
+    "hours": 4
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC207",
+    "day": "Wednesday",
+    "hours": 5
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC207",
+    "day": "Thursday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC207",
+    "day": "Friday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC207",
+    "day": "Saturday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC208",
+    "day": "Monday",
+    "hours": 4
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC208",
+    "day": "Tuesday",
+    "hours": 5
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC208",
+    "day": "Wednesday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC208",
+    "day": "Thursday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC208",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC208",
+    "day": "Saturday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC209",
+    "day": "Monday",
+    "hours": 5
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC209",
+    "day": "Tuesday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC209",
+    "day": "Wednesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC209",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC209",
+    "day": "Friday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC209",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC210",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC210",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC210",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC210",
+    "day": "Thursday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC210",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC210",
+    "day": "Saturday",
+    "hours": 15
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC301",
+    "day": "Monday",
+    "hours": 2
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC301",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC301",
+    "day": "Wednesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC301",
+    "day": "Thursday",
+    "hours": 3
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC301",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC301",
+    "day": "Saturday",
+    "hours": 15
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC302",
+    "day": "Monday",
+    "hours": 4
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC302",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC302",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC302",
+    "day": "Thursday",
+    "hours": 4
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC302",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC302",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC303",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC303",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC303",
+    "day": "Wednesday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC303",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC303",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC303",
+    "day": "Saturday",
+    "hours": 15
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC304",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC304",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC304",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC304",
+    "day": "Thursday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC304",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC304",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC305",
+    "day": "Monday",
+    "hours": 5
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC305",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC305",
+    "day": "Wednesday",
+    "hours": 3
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC305",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC305",
+    "day": "Friday",
+    "hours": 15
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC306",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC306",
+    "day": "Tuesday",
+    "hours": 4
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC306",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC306",
+    "day": "Thursday",
+    "hours": 4
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC306",
+    "day": "Friday",
+    "hours": 14
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC306",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC307",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC307",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC307",
+    "day": "Wednesday",
+    "hours": 2
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC307",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC307",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC307",
+    "day": "Saturday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC308",
+    "day": "Monday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC308",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC308",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC308",
+    "day": "Thursday",
+    "hours": 9
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC308",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC308",
+    "day": "Saturday",
+    "hours": 15
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC309",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC309",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC309",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC309",
+    "day": "Thursday",
+    "hours": 3
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC309",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC309",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC310",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC310",
+    "day": "Tuesday",
+    "hours": 4
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC310",
+    "day": "Wednesday",
+    "hours": 3
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC310",
+    "day": "Thursday",
+    "hours": 4
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC310",
+    "day": "Friday",
+    "hours": 14
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC310",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC311",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC311",
+    "day": "Tuesday",
+    "hours": 2
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC311",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC311",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC311",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC311",
+    "day": "Saturday",
+    "hours": 6
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC312",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC312",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC312",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC312",
+    "day": "Thursday",
+    "hours": 14
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC312",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC312",
+    "day": "Saturday",
+    "hours": 2
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA101",
+    "day": "Monday",
+    "hours": 3
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA101",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA101",
+    "day": "Wednesday",
+    "hours": 2
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA101",
+    "day": "Thursday",
+    "hours": 3
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA101",
+    "day": "Friday",
+    "hours": 5
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA101",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA102",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA102",
+    "day": "Tuesday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA102",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA102",
+    "day": "Thursday",
+    "hours": 4
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA102",
+    "day": "Friday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA102",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA103",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA103",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA103",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA103",
+    "day": "Thursday",
+    "hours": 15
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA103",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA103",
+    "day": "Saturday",
+    "hours": 14
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA104",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA104",
+    "day": "Tuesday",
+    "hours": 16
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA104",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA104",
+    "day": "Thursday",
+    "hours": 13
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA104",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA104",
+    "day": "Saturday",
+    "hours": 14
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA201",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA201",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA201",
+    "day": "Wednesday",
+    "hours": 2
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA201",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA201",
+    "day": "Friday",
+    "hours": 5
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA201",
+    "day": "Saturday",
+    "hours": 14
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA202",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA202",
+    "day": "Tuesday",
+    "hours": 2
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA202",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA202",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA202",
+    "day": "Friday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA202",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA203",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA203",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA203",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA203",
+    "day": "Thursday",
+    "hours": 15
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA203",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA203",
+    "day": "Saturday",
+    "hours": 14
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA204",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA204",
+    "day": "Tuesday",
+    "hours": 16
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA204",
+    "day": "Wednesday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA204",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA204",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA204",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA205",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA205",
+    "day": "Tuesday",
+    "hours": 16
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA205",
+    "day": "Wednesday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA205",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA205",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA205",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA206",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA206",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA206",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA206",
+    "day": "Thursday",
+    "hours": 15
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA206",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA206",
+    "day": "Saturday",
+    "hours": 14
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA207",
+    "day": "Monday",
+    "hours": 6
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA207",
+    "day": "Tuesday",
+    "hours": 2
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA207",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA207",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA207",
+    "day": "Friday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA207",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA208",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA208",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA208",
+    "day": "Wednesday",
+    "hours": 2
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA208",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA208",
+    "day": "Friday",
+    "hours": 5
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA208",
+    "day": "Saturday",
+    "hours": 14
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA209",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA209",
+    "day": "Tuesday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA209",
+    "day": "Wednesday",
+    "hours": 3
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA209",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA209",
+    "day": "Friday",
+    "hours": 4
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA209",
+    "day": "Saturday",
+    "hours": 13
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA210",
+    "day": "Monday",
+    "hours": 13
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA210",
+    "day": "Tuesday",
+    "hours": 4
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA210",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA210",
+    "day": "Thursday",
+    "hours": 3
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA210",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA210",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ101",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ101",
+    "day": "Tuesday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ101",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ101",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ101",
+    "day": "Friday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ101",
+    "day": "Saturday",
+    "hours": 13
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ102",
+    "day": "Monday",
+    "hours": 13
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ102",
+    "day": "Tuesday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ102",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ102",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ102",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ102",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ103",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ103",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ103",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ103",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ103",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ103",
+    "day": "Saturday",
+    "hours": 13
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ104",
+    "day": "Monday",
+    "hours": 13
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ104",
+    "day": "Tuesday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ104",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ104",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ104",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ104",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA301",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA301",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA301",
+    "day": "Wednesday",
+    "hours": 9
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA301",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA301",
+    "day": "Friday",
+    "hours": 6
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA301",
+    "day": "Saturday",
+    "hours": 7
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA302",
+    "day": "Monday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA302",
+    "day": "Tuesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA302",
+    "day": "Wednesday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA302",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA302",
+    "day": "Friday",
+    "hours": 3
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA302",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA303",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA303",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA303",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA303",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA303",
+    "day": "Friday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA303",
+    "day": "Saturday",
+    "hours": 13
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA304",
+    "day": "Monday",
+    "hours": 9
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA304",
+    "day": "Tuesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA304",
+    "day": "Wednesday",
+    "hours": 9
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA304",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA304",
+    "day": "Friday",
+    "hours": 5
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA304",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA305",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA305",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA305",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA305",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA305",
+    "day": "Friday",
+    "hours": 9
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA305",
+    "day": "Saturday",
+    "hours": 7
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA306",
+    "day": "Monday",
+    "hours": 2
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA306",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA306",
+    "day": "Wednesday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA306",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA306",
+    "day": "Friday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA306",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA307",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA307",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA307",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA307",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA307",
+    "day": "Friday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA307",
+    "day": "Saturday",
+    "hours": 13
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA308",
+    "day": "Monday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA308",
+    "day": "Tuesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA308",
+    "day": "Wednesday",
+    "hours": 9
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA308",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA308",
+    "day": "Friday",
+    "hours": 7
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA308",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA309",
+    "day": "Monday",
+    "hours": 13
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA309",
+    "day": "Tuesday",
+    "hours": 15
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA309",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA309",
+    "day": "Thursday",
+    "hours": 7
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA309",
+    "day": "Friday",
+    "hours": 9
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA309",
+    "day": "Saturday",
+    "hours": 7
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA310",
+    "day": "Monday",
+    "hours": 2
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA310",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA310",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA310",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA310",
+    "day": "Friday",
+    "hours": 11
+}, {
+    "building": "St. Augustine",
+    "roomname": "SA310",
+    "day": "Saturday",
+    "hours": 9
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV201",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV201",
+    "day": "Tuesday",
+    "hours": 15
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV201",
+    "day": "Wednesday",
+    "hours": 15
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV201",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV201",
+    "day": "Friday",
+    "hours": 15
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV201",
+    "day": "Saturday",
+    "hours": 7
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV202",
+    "day": "Monday",
+    "hours": 18
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV202",
+    "day": "Tuesday",
+    "hours": 7
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV202",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV202",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV202",
+    "day": "Friday",
+    "hours": 11
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV202",
+    "day": "Saturday",
+    "hours": 11
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV203",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV203",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV203",
+    "day": "Wednesday",
+    "hours": 6
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV203",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV203",
+    "day": "Friday",
+    "hours": 7
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV203",
+    "day": "Saturday",
+    "hours": 13
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV204",
+    "day": "Monday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV204",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV204",
+    "day": "Wednesday",
+    "hours": 9
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV204",
+    "day": "Thursday",
+    "hours": 12
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV204",
+    "day": "Friday",
+    "hours": 6
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV204",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV205",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV205",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV205",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV205",
+    "day": "Thursday",
+    "hours": 7
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV205",
+    "day": "Friday",
+    "hours": 12
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV205",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV206",
+    "day": "Monday",
+    "hours": 14
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV206",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV206",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV206",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV206",
+    "day": "Friday",
+    "hours": 11
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV206",
+    "day": "Saturday",
+    "hours": 11
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV207",
+    "day": "Monday",
+    "hours": 12
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV207",
+    "day": "Tuesday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV207",
+    "day": "Wednesday",
+    "hours": 14
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV207",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV207",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV207",
+    "day": "Saturday",
+    "hours": 13
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV208",
+    "day": "Monday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV208",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV208",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV208",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV208",
+    "day": "Friday",
+    "hours": 6
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV208",
+    "day": "Saturday",
+    "hours": 9
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV209",
+    "day": "Monday",
+    "hours": 9
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV209",
+    "day": "Tuesday",
+    "hours": 8
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV209",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV209",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV209",
+    "day": "Friday",
+    "hours": 4
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV209",
+    "day": "Saturday",
+    "hours": 13
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV210",
+    "day": "Monday",
+    "hours": 5
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV210",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV210",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV210",
+    "day": "Thursday",
+    "hours": 14
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV210",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Thomas",
+    "roomname": "TV210",
+    "day": "Saturday",
+    "hours": 12
+}, {
+    "building": "La Consolacion",
+    "roomname": "LC305",
+    "day": "Saturday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ201",
+    "day": "Monday",
+    "hours": 14
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ201",
+    "day": "Tuesday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ201",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ201",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ201",
+    "day": "Friday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ201",
+    "day": "Saturday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ202",
+    "day": "Monday",
+    "hours": 5
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ202",
+    "day": "Tuesday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ202",
+    "day": "Wednesday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ202",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ202",
+    "day": "Friday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ202",
+    "day": "Saturday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ203",
+    "day": "Monday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ203",
+    "day": "Tuesday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ203",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ203",
+    "day": "Thursday",
+    "hours": 5
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ203",
+    "day": "Friday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ203",
+    "day": "Saturday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ204",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ204",
+    "day": "Tuesday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ204",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ204",
+    "day": "Thursday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ204",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ204",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ205",
+    "day": "Monday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ205",
+    "day": "Tuesday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ205",
+    "day": "Wednesday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ205",
+    "day": "Thursday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ205",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ205",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ206",
+    "day": "Monday",
+    "hours": 5
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ206",
+    "day": "Tuesday",
+    "hours": 14
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ206",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ206",
+    "day": "Thursday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ206",
+    "day": "Friday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ206",
+    "day": "Saturday",
+    "hours": 9
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ207",
+    "day": "Monday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ207",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ207",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ207",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ207",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ207",
+    "day": "Saturday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ208",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ208",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ208",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ208",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ208",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ208",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ209",
+    "day": "Monday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ209",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ209",
+    "day": "Wednesday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ209",
+    "day": "Thursday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ209",
+    "day": "Friday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ209",
+    "day": "Saturday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ210",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ210",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ210",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ210",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ210",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ210",
+    "day": "Saturday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ211",
+    "day": "Monday",
+    "hours": 11
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ211",
+    "day": "Tuesday",
+    "hours": 12
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ211",
+    "day": "Wednesday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ211",
+    "day": "Thursday",
+    "hours": 10
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ211",
+    "day": "Friday",
+    "hours": 8
+}, {
+    "building": "St. Joseph",
+    "roomname": "SJ211",
+    "day": "Saturday",
+    "hours": 10
+}]

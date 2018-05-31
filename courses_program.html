@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Test</title>
+        <link rel="stylesheet" href="bootstrap/bootstrap.min.css"/>
+        <script src="vendor/jquery.min.js"></script>
+        <script src="vendor/jquery.canvasjs.min.js"></script>
+
+    </head>
+    <body>
+        <div class="row">
+            <div class="col-md-9">
+                <div id="chartContainer" style="width: 100%; height: 400px"></div>
+            </div>
+            <div class="col-md-3">
+                <ul>
+                    <li><a href="index.html">Annual Population per College</a></li>
+                    <li><a href="annual_population.html">Annual Population</a></li>
+                    <li><a href="courses_program.html">Annual Population per Course/Program</a></li>
+                    <li><a href="laboratories_rooms.html">Laboratories and Rooms</a></li>
+                </ul>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-3">
+                Chart Type: <select name="chart Type" id="chartType">
+                <option selected="selected">Select</option>
+                <option value="stackedColumn">Column Chart</option>
+                <option value="stackedBar">Bar Chart</option>
+                <option value="line">Line Chart</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                College: <select class="selectpicker" name="College" id="college">
+                </select>
+            </div>
+        </div>
+        <script>
+            let dropdown = $('#college');
+            dropdown.empty();
+            dropdown.append('<option value="" selected="selected">All Colleges</option>');
+            dropdown.prop('selectedIndex', 0);
+            var duplicate = [];
+            const url = 'json/courses_program.json';
+            // Populate dropdown with list of courses and programs
+            $.getJSON(url, function (data) {
+                $.each(data, function (key, entry) {
+                    if($.inArray(entry.college, duplicate)===-1)  {
+                        duplicate.push(entry.college);
+                        dropdown.append($('<option></option>').attr('value', entry.college).text(entry.college));
+                    }
+                })
+            });
+        </script>
+        <script src="scripts/courses_program.js"></script>
+    </body>    
+</html>

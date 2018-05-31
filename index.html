@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>Test</title>
+        <link rel="stylesheet" href="bootstrap/bootstrap.min.css"/>
+        <script src="vendor/jquery.min.js"></script>
+        <script src="vendor/jquery.canvasjs.min.js"></script>
+    </head>
+    <body>
+        <div class="row">
+            <div class="col-md-9">
+                <div id="chartContainer" style="width: 100%; height: 400px"></div>
+            </div>
+            <div class="col-md-3">
+                <ul>
+                    <li><a href="index.html">Annual Population per College</a></li>
+                    <li><a href="annual_population.html">Annual Population</a></li>
+                    <li><a href="courses_program.html">Annual Population per Course/Program</a></li>
+                    <li><a href="laboratories_rooms.html">Laboratories and Rooms</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3"> 
+                <select name="chart Type" id="chartType">
+                    <option value="stackedColumn">Column Chart</option>
+                    <option value="stackedBar">Bar Chart</option>
+                    <option value="line">Line Chart</option>
+                    <option value="pie">Pie Chart</option>
+                    <option value="doughnut">Doughnut Chart</option>
+                </select>
+            </div>
+        </div>
+        <script src="scripts/annual_population_colleges.js"></script>
+    </body>    
+</html>

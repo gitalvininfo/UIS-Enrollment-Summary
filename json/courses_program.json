@@ -1,0 +1,1251 @@
+[{
+    "year": 2014,
+    "course": "BS Nursing",
+    "count": 70,
+    "college": "CAHS"
+}, {
+    "year": 2015,
+    "course": "BS Nursing",
+    "count": 75,
+    "college": "CAHS"
+}, {
+    "year": 2016,
+    "course": "BS Nursing",
+    "count": 80,
+    "college": "CAHS"
+}, {
+    "year": 2017,
+    "course": "BS Nursing",
+    "count": 85,
+    "college": "CAHS"
+}, {
+    "year": 2018,
+    "course": "BS Nursing",
+    "count": 90,
+    "college": "CAHS"
+}, {
+    "year": 2014,
+    "course": "BSMT",
+    "count": 30,
+    "college": "CAHS"
+}, {
+    "year": 2015,
+    "course": "BSMT",
+    "count": 35,
+    "college": "CAHS"
+}, {
+    "year": 2016,
+    "course": "BSMT",
+    "count": 40,
+    "college": "CAHS"
+}, {
+    "year": 2017,
+    "course": "BSMT",
+    "count": 30,
+    "college": "CAHS"
+}, {
+    "year": 2018,
+    "course": "BSMT",
+    "count": 35,
+    "college": "CAHS"
+}, {
+    "year": 2014,
+    "course": "BS Pharmacy",
+    "count": 40,
+    "college": "CAHS"
+}, {
+    "year": 2015,
+    "course": "BS Pharmacy",
+    "count": 50,
+    "college": "CAHS"
+}, {
+    "year": 2016,
+    "course": "BS Pharmacy",
+    "count": 55,
+    "college": "CAHS"
+}, {
+    "year": 2017,
+    "course": "BS Pharmacy",
+    "count": 60,
+    "college": "CAHS"
+}, {
+    "year": 2018,
+    "course": "BS Pharmacy",
+    "count": 65,
+    "college": "CAHS"
+}, {
+    "year": 2014,
+    "course": "AB Psych",
+    "count": 70,
+    "college": "CAS"
+}, {
+    "year": 2015,
+    "course": "AB Psych",
+    "count": 75,
+    "college": "CAS"
+}, {
+    "year": 2016,
+    "course": "AB Psych",
+    "count": 80,
+    "college": "CAS"
+}, {
+    "year": 2017,
+    "course": "AB Psych",
+    "count": 85,
+    "college": "CAS"
+}, {
+    "year": 2018,
+    "course": "AB Psych",
+    "count": 90,
+    "college": "CAS"
+}, {
+    "year": 2014,
+    "course": "BS Agri Animal Science",
+    "count": 30,
+    "college": "CAS"
+}, {
+    "year": 2015,
+    "course": "BS Agri Animal Science",
+    "count": 35,
+    "college": "CAS"
+}, {
+    "year": 2016,
+    "course": "BS Agri Animal Science",
+    "count": 40,
+    "college": "CAS"
+}, {
+    "year": 2017,
+    "course": "BS Agri Animal Science",
+    "count": 45,
+    "college": "CAS"
+}, {
+    "year": 2018,
+    "course": "BS Agri Animal Science",
+    "count": 50,
+    "college": "CAS"
+}, {
+    "year": 2014,
+    "course": "BS Agri Crop Science",
+    "count": 20,
+    "college": "CAS"
+}, {
+    "year": 2015,
+    "course": "BS Agri Crop Science",
+    "count": 25,
+    "college": "CAS"
+}, {
+    "year": 2016,
+    "course": "BS Agri Crop Science",
+    "count": 30,
+    "college": "CAS"
+}, {
+    "year": 2017,
+    "course": "BS Agri Crop Science",
+    "count": 35,
+    "college": "CAS"
+}, {
+    "year": 2018,
+    "course": "BS Agri Crop Science",
+    "count": 40,
+    "college": "CAS"
+}, {
+    "year": 2014,
+    "course": "BSMC",
+    "count": 50,
+    "college": "CAS"
+}, {
+    "year": 2015,
+    "course": "BSMC",
+    "count": 55,
+    "college": "CAS"
+}, {
+    "year": 2016,
+    "course": "BSMC",
+    "count": 60,
+    "college": "CAS"
+}, {
+    "year": 2017,
+    "course": "BSMC",
+    "count": 65,
+    "college": "CAS"
+}, {
+    "year": 2018,
+    "course": "BSMC",
+    "count": 70,
+    "college": "CAS"
+}, {
+    "year": 2014,
+    "course": "BS Psychology",
+    "count": 40,
+    "college": "CAS"
+}, {
+    "year": 2015,
+    "course": "BS Psychology",
+    "count": 45,
+    "college": "CAS"
+}, {
+    "year": 2016,
+    "course": "BS Psychology",
+    "count": 50,
+    "college": "CAS"
+}, {
+    "year": 2017,
+    "course": "BS Psychology",
+    "count": 55,
+    "college": "CAS"
+}, {
+    "year": 2018,
+    "course": "BS Psychology",
+    "count": 60,
+    "college": "CAS"
+}, {
+    "year": 2014,
+    "course": "BSSW",
+    "count": 70,
+    "college": "CAS"
+}, {
+    "year": 2015,
+    "course": "BSSW",
+    "count": 75,
+    "college": "CAS"
+}, {
+    "year": 2016,
+    "course": "BSSW",
+    "count": 80,
+    "college": "CAS"
+}, {
+    "year": 2017,
+    "course": "BSSW",
+    "count": 85,
+    "college": "CAS"
+}, {
+    "year": 2018,
+    "course": "BSSW",
+    "count": 90,
+    "college": "CAS"
+}, {
+    "year": 2014,
+    "course": "BS ACC",
+    "count": 70,
+    "college": "CBA"
+}, {
+    "year": 2015,
+    "course": "BS ACC",
+    "count": 75,
+    "college": "CBA"
+}, {
+    "year": 2016,
+    "course": "BS ACC",
+    "count": 80,
+    "college": "CBA"
+}, {
+    "year": 2017,
+    "course": "BS ACC",
+    "count": 85,
+    "college": "CBA"
+}, {
+    "year": 2018,
+    "course": "BS ACC",
+    "count": 90,
+    "college": "CBA"
+}, {
+    "year": 2014,
+    "course": "BS AcT",
+    "count": 30,
+    "college": "CBA"
+}, {
+    "year": 2015,
+    "course": "BS AcT",
+    "count": 35,
+    "college": "CBA"
+}, {
+    "year": 2016,
+    "course": "BS AcT",
+    "count": 40,
+    "college": "CBA"
+}, {
+    "year": 2017,
+    "course": "BS AcT",
+    "count": 45,
+    "college": "CBA"
+}, {
+    "year": 2018,
+    "course": "BS AcT",
+    "count": 50,
+    "college": "CBA"
+}, {
+    "year": 2014,
+    "course": "BSBA Banking",
+    "count": 20,
+    "college": "CBA"
+}, {
+    "year": 2015,
+    "course": "BSBA Banking",
+    "count": 25,
+    "college": "CBA"
+}, {
+    "year": 2016,
+    "course": "BSBA Banking",
+    "count": 30,
+    "college": "CBA"
+}, {
+    "year": 2017,
+    "course": "BSBA Banking",
+    "count": 35,
+    "college": "CBA"
+}, {
+    "year": 2018,
+    "course": "BSBA Banking",
+    "count": 40,
+    "college": "CBA"
+}, {
+    "year": 2014,
+    "course": "BSBA BM",
+    "count": 50,
+    "college": "CBA"
+}, {
+    "year": 2015,
+    "course": "BSBA BM",
+    "count": 55,
+    "college": "CBA"
+}, {
+    "year": 2016,
+    "course": "BSBA BM",
+    "count": 60,
+    "college": "CBA"
+}, {
+    "year": 2017,
+    "course": "BSBA BM",
+    "count": 65,
+    "college": "CBA"
+}, {
+    "year": 2018,
+    "course": "BSBA BM",
+    "count": 70,
+    "college": "CBA"
+}, {
+    "year": 2014,
+    "course": "BSBA MM",
+    "count": 40,
+    "college": "CBA"
+}, {
+    "year": 2015,
+    "course": "BSBA MM",
+    "count": 45,
+    "college": "CBA"
+}, {
+    "year": 2016,
+    "course": "BSBA MM",
+    "count": 50,
+    "college": "CBA"
+}, {
+    "year": 2017,
+    "course": "BSBA MM",
+    "count": 55,
+    "college": "CBA"
+}, {
+    "year": 2018,
+    "course": "BSBA MM",
+    "count": 60,
+    "college": "CBA"
+}, {
+    "year": 2014,
+    "course": "BSHM",
+    "count": 70,
+    "college": "CBA"
+}, {
+    "year": 2015,
+    "course": "BSHM",
+    "count": 75,
+    "college": "CBA"
+}, {
+    "year": 2016,
+    "course": "BSHM",
+    "count": 80,
+    "college": "CBA"
+}, {
+    "year": 2017,
+    "course": "BSHM",
+    "count": 85,
+    "college": "CBA"
+}, {
+    "year": 2018,
+    "course": "BSHM",
+    "count": 90,
+    "college": "CBA"
+}, {
+    "year": 2014,
+    "course": "BSTM",
+    "count": 45,
+    "college": "CBA"
+}, {
+    "year": 2015,
+    "course": "BSTM",
+    "count": 70,
+    "college": "CBA"
+}, {
+    "year": 2016,
+    "course": "BSTM",
+    "count": 50,
+    "college": "CBA"
+}, {
+    "year": 2017,
+    "course": "BSTM",
+    "count": 60,
+    "college": "CBA"
+}, {
+    "year": 2018,
+    "course": "BSTM",
+    "count": 30,
+    "college": "CBA"
+}, {
+    "year": 2014,
+    "course": "BS Crim",
+    "count": 80,
+    "college": "CCJE"
+}, {
+    "year": 2015,
+    "course": "BS Crim",
+    "count": 90,
+    "college": "CCJE"
+}, {
+    "year": 2016,
+    "course": "BS Crim",
+    "count": 100,
+    "college": "CCJE"
+}, {
+    "year": 2017,
+    "course": "BS Crim",
+    "count": 110,
+    "college": "CCJE"
+}, {
+    "year": 2018,
+    "course": "BS Crim",
+    "count": 120,
+    "college": "CCJE"
+}, {
+    "year": 2014,
+    "course": "BEED Gen Ed",
+    "count": 60,
+    "college": "COED"
+}, {
+    "year": 2015,
+    "course": "BEED Gen Ed",
+    "count": 70,
+    "college": "COED"
+}, {
+    "year": 2016,
+    "course": "BEED Gen Ed",
+    "count": 75,
+    "college": "COED"
+}, {
+    "year": 2017,
+    "course": "BEED Gen Ed",
+    "count": 80,
+    "college": "COED"
+}, {
+    "year": 2018,
+    "course": "BEED Gen Ed",
+    "count": 85,
+    "college": "COED"
+}, {
+    "year": 2014,
+    "course": "BEED SPED",
+    "count": 90,
+    "college": "COED"
+}, {
+    "year": 2015,
+    "course": "BEED SPED",
+    "count": 45,
+    "college": "COED"
+}, {
+    "year": 2016,
+    "course": "BEED SPED",
+    "count": 70,
+    "college": "COED"
+}, {
+    "year": 2017,
+    "course": "BEED SPED",
+    "count": 50,
+    "college": "COED"
+}, {
+    "year": 2018,
+    "course": "BEED SPED",
+    "count": 60,
+    "college": "COED"
+}, {
+    "year": 2014,
+    "course": "BEED Early Childhood",
+    "count": 30,
+    "college": "COED"
+}, {
+    "year": 2015,
+    "course": "BEED Early Childhood",
+    "count": 80,
+    "college": "COED"
+}, {
+    "year": 2016,
+    "course": "BEED Early Childhood",
+    "count": 90,
+    "college": "COED"
+}, {
+    "year": 2017,
+    "course": "BEED Early Childhood",
+    "count": 100,
+    "college": "COED"
+}, {
+    "year": 2018,
+    "course": "BEED Early Childhood",
+    "count": 110,
+    "college": "COED"
+}, {
+    "year": 2014,
+    "course": "BSED English",
+    "count": 120,
+    "college": "COED"
+}, {
+    "year": 2015,
+    "course": "BSED English",
+    "count": 90,
+    "college": "COED"
+}, {
+    "year": 2016,
+    "course": "BSED English",
+    "count": 70,
+    "college": "COED"
+}, {
+    "year": 2017,
+    "course": "BSED English",
+    "count": 75,
+    "college": "COED"
+}, {
+    "year": 2018,
+    "course": "BSED English",
+    "count": 80,
+    "college": "COED"
+}, {
+    "year": 2014,
+    "course": "BSED Math",
+    "count": 85,
+    "college": "COED"
+}, {
+    "year": 2015,
+    "course": "BSED Math",
+    "count": 90,
+    "college": "COED"
+}, {
+    "year": 2016,
+    "course": "BSED Math",
+    "count": 30,
+    "college": "COED"
+}, {
+    "year": 2017,
+    "course": "BSED Math",
+    "count": 35,
+    "college": "COED"
+}, {
+    "year": 2018,
+    "course": "BSED Math",
+    "count": 40,
+    "college": "COED"
+}, {
+    "year": 2014,
+    "course": "BSED Bio Sci",
+    "count": 45,
+    "college": "COED"
+}, {
+    "year": 2015,
+    "course": "BSED Bio Sci",
+    "count": 50,
+    "college": "COED"
+}, {
+    "year": 2016,
+    "course": "BSED Bio Sci",
+    "count": 20,
+    "college": "COED"
+}, {
+    "year": 2017,
+    "course": "BSED Bio Sci",
+    "count": 25,
+    "college": "COED"
+}, {
+    "year": 2018,
+    "course": "BSED Bio Sci",
+    "count": 30,
+    "college": "COED"
+}, {
+    "year": 2014,
+    "course": "BSED MAPEH",
+    "count": 35,
+    "college": "COED"
+}, {
+    "year": 2015,
+    "course": "BSED MAPEH",
+    "count": 85,
+    "college": "COED"
+}, {
+    "year": 2016,
+    "course": "BSED MAPEH",
+    "count": 90,
+    "college": "COED"
+}, {
+    "year": 2017,
+    "course": "BSED MAPEH",
+    "count": 45,
+    "college": "COED"
+}, {
+    "year": 2018,
+    "course": "BSED MAPEH",
+    "count": 70,
+    "college": "COED"
+}, {
+    "year": 2014,
+    "course": "BSCHE",
+    "count": 35,
+    "college": "COE"
+}, {
+    "year": 2015,
+    "course": "BSCHE",
+    "count": 40,
+    "college": "COE"
+}, {
+    "year": 2016,
+    "course": "BSCHE",
+    "count": 45,
+    "college": "COE"
+}, {
+    "year": 2017,
+    "course": "BSCHE",
+    "count": 50,
+    "college": "COE"
+}, {
+    "year": 2018,
+    "course": "BSCHE",
+    "count": 20,
+    "college": "COE"
+}, {
+    "year": 2014,
+    "course": "BSCE",
+    "count": 25,
+    "college": "COE"
+}, {
+    "year": 2015,
+    "course": "BSCE",
+    "count": 30,
+    "college": "COE"
+}, {
+    "year": 2016,
+    "course": "BSCE",
+    "count": 35,
+    "college": "COE"
+}, {
+    "year": 2017,
+    "course": "BSCE",
+    "count": 85,
+    "college": "COE"
+}, {
+    "year": 2018,
+    "course": "BSCE",
+    "count": 90,
+    "college": "COE"
+}, {
+    "year": 2014,
+    "course": "BSCOE",
+    "count": 45,
+    "college": "COE"
+}, {
+    "year": 2015,
+    "course": "BSCOE",
+    "count": 70,
+    "college": "COE"
+}, {
+    "year": 2016,
+    "course": "BSCOE",
+    "count": 60,
+    "college": "COE"
+}, {
+    "year": 2017,
+    "course": "BSCOE",
+    "count": 30,
+    "college": "COE"
+}, {
+    "year": 2018,
+    "course": "BSCOE",
+    "count": 80,
+    "college": "COE"
+}, {
+    "year": 2014,
+    "course": "BSEE",
+    "count": 90,
+    "college": "COE"
+}, {
+    "year": 2015,
+    "course": "BSEE",
+    "count": 100,
+    "college": "COE"
+}, {
+    "year": 2016,
+    "course": "BSEE",
+    "count": 110,
+    "college": "COE"
+}, {
+    "year": 2017,
+    "course": "BSEE",
+    "count": 120,
+    "college": "COE"
+}, {
+    "year": 2018,
+    "course": "BSEE",
+    "count": 90,
+    "college": "COE"
+}, {
+    "year": 2014,
+    "course": "BSECE",
+    "count": 70,
+    "college": "COE"
+}, {
+    "year": 2015,
+    "course": "BSECE",
+    "count": 75,
+    "college": "COE"
+}, {
+    "year": 2016,
+    "course": "BSECE",
+    "count": 70,
+    "college": "COE"
+}, {
+    "year": 2017,
+    "course": "BSECE",
+    "count": 35,
+    "college": "COE"
+}, {
+    "year": 2018,
+    "course": "BSECE",
+    "count": 40,
+    "college": "COE"
+}, {
+    "year": 2014,
+    "course": "BSME",
+    "count": 45,
+    "college": "COE"
+}, {
+    "year": 2015,
+    "course": "BSME",
+    "count": 50,
+    "college": "COE"
+}, {
+    "year": 2016,
+    "course": "BSME",
+    "count": 20,
+    "college": "COE"
+}, {
+    "year": 2017,
+    "course": "BSME",
+    "count": 25,
+    "college": "COE"
+}, {
+    "year": 2018,
+    "course": "BSME",
+    "count": 50,
+    "college": "COE"
+}, {
+    "year": 2014,
+    "course": "BSIS",
+    "count": 75,
+    "college": "CIT"
+}, {
+    "year": 2015,
+    "course": "BSIS",
+    "count": 70,
+    "college": "CIT"
+}, {
+    "year": 2016,
+    "course": "BSIS",
+    "count": 35,
+    "college": "CIT"
+}, {
+    "year": 2017,
+    "course": "BSIS",
+    "count": 40,
+    "college": "CIT"
+}, {
+    "year": 2018,
+    "course": "BSIS",
+    "count": 45,
+    "college": "CIT"
+}, {
+    "year": 2014,
+    "course": "BSIT",
+    "count": 50,
+    "college": "CIT"
+}, {
+    "year": 2015,
+    "course": "BSIT",
+    "count": 20,
+    "college": "CIT"
+}, {
+    "year": 2016,
+    "course": "BSIT",
+    "count": 25,
+    "college": "CIT"
+}, {
+    "year": 2017,
+    "course": "BSIT",
+    "count": 50,
+    "college": "CIT"
+}, {
+    "year": 2018,
+    "course": "BSIT",
+    "count": 25,
+    "college": "CIT"
+}, {
+    "year": 2014,
+    "course": "BSCS",
+    "count": 50,
+    "college": "CIT"
+}, {
+    "year": 2015,
+    "course": "BSCS",
+    "count": 75,
+    "college": "CIT"
+}, {
+    "year": 2016,
+    "course": "BSCS",
+    "count": 70,
+    "college": "CIT"
+}, {
+    "year": 2017,
+    "course": "BSCS",
+    "count": 35,
+    "college": "CIT"
+}, {
+    "year": 2018,
+    "course": "BSCS",
+    "count": 40,
+    "college": "CIT"
+}, {
+    "year": 2014,
+    "course": "LLB",
+    "count": 100,
+    "college": "LLB"
+}, {
+    "year": 2015,
+    "course": "LLB",
+    "count": 90,
+    "college": "LLB"
+}, {
+    "year": 2016,
+    "course": "LLB",
+    "count": 110,
+    "college": "LLB"
+}, {
+    "year": 2017,
+    "course": "LLB",
+    "count": 120,
+    "college": "LLB"
+}, {
+    "year": 2018,
+    "course": "LLB",
+    "count": 130,
+    "college": "LLB"
+}, {
+    "year": 2014,
+    "course": "PhD Educ Mgmt",
+    "count": 90,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "PhD Educ Mgmt",
+    "count": 70,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "PhD Educ Mgmt",
+    "count": 75,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "PhD Educ Mgmt",
+    "count": 70,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "PhD Educ Mgmt",
+    "count": 35,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "EdD Educ Mgmt",
+    "count": 40,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "EdD Educ Mgmt",
+    "count": 45,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "EdD Educ Mgmt",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "EdD Educ Mgmt",
+    "count": 20,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "EdD Educ Mgmt",
+    "count": 25,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MAED Early Childhood",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MAED Early Childhood",
+    "count": 75,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MAED Early Childhood",
+    "count": 70,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MAED Early Childhood",
+    "count": 35,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MAED Early Childhood",
+    "count": 40,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MAED English",
+    "count": 45,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MAED English",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MAED English",
+    "count": 20,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MAED English",
+    "count": 25,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MAED English",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MAED Filipino",
+    "count": 25,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MAED Filipino",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MAED Filipino",
+    "count": 75,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MAED Filipino",
+    "count": 70,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MAED Filipino",
+    "count": 35,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MAED Natural Science",
+    "count": 40,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MAED Natural Science",
+    "count": 100,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MAED Natural Science",
+    "count": 25,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MAED Natural Science",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MAED Natural Science",
+    "count": 75,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MAED Social Science",
+    "count": 70,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MAED Social Science",
+    "count": 35,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MAED Social Science",
+    "count": 40,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MAED Social Science",
+    "count": 45,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MAED Social Science",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MAED Special Education",
+    "count": 20,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MAED Special Education",
+    "count": 25,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MAED Special Education",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MAED Special Education",
+    "count": 25,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MAED Special Education",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MBA HTM",
+    "count": 75,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MBA HTM",
+    "count": 70,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MBA HTM",
+    "count": 35,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MBA HTM",
+    "count": 40,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MBA HTM",
+    "count": 100,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MBA Bus Mgmt",
+    "count": 90,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MBA Bus Mgmt",
+    "count": 110,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MBA Bus Mgmt",
+    "count": 120,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MBA Bus Mgmt",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MBA Bus Mgmt",
+    "count": 25,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MPAG",
+    "count": 50,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MPAG",
+    "count": 75,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MPAG",
+    "count": 70,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MPAG",
+    "count": 35,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MPAG",
+    "count": 40,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MSCS",
+    "count": 10,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MSCS",
+    "count": 15,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MSCS",
+    "count": 12,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MSCS",
+    "count": 11,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MSCS",
+    "count": 12,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MIS",
+    "count": 15,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MIS",
+    "count": 12,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MIS",
+    "count": 11,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MIS",
+    "count": 12,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MIS",
+    "count": 7,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MIT",
+    "count": 10,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MIT",
+    "count": 5,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MIT",
+    "count": 6,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MIT",
+    "count": 7,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MIT",
+    "count": 9,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MSCJ",
+    "count": 12,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MSCJ",
+    "count": 15,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MSCJ",
+    "count": 12,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MSCJ",
+    "count": 11,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MSCJ",
+    "count": 12,
+    "college": "RBGS"
+}, {
+    "year": 2014,
+    "course": "MAN",
+    "count": 15,
+    "college": "RBGS"
+}, {
+    "year": 2015,
+    "course": "MAN",
+    "count": 12,
+    "college": "RBGS"
+}, {
+    "year": 2016,
+    "course": "MAN",
+    "count": 11,
+    "college": "RBGS"
+}, {
+    "year": 2017,
+    "course": "MAN",
+    "count": 12,
+    "college": "RBGS"
+}, {
+    "year": 2018,
+    "course": "MAN",
+    "count": 20,
+    "college": "RBGS"
+}]
